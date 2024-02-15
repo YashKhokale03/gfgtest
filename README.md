@@ -1,1 +1,1 @@
-This is tutorial gor Git & GitHub.
+This is tutorial for Git & GitHub.
